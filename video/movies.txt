@@ -1,0 +1,1 @@
+{1 {:rent 1, :price 10, :quant 1, :name "A"}}
